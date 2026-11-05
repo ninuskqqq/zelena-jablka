@@ -6,4 +6,6 @@ Hlavní výhody:
 - Skvělá kyselkavá chuť
 - Méně cukru než červená jablka
 - Perfektně křupou
+
 ![Detail jablka](images/jablko2.jpg)
+[Zdravotní benefity ovoce](https://www.healthline.com)
