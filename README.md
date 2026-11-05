@@ -9,4 +9,4 @@ Hlavní výhody:
 
 ![Detail jablka](images/jablko2.jpg)
 [Zdravotní benefity ovoce](https://www.healthline.com)
-> Závěr: Jíst jedno zelené jablko denně je meta.
+  > Závěr: Jíst jedno zelené jablko denně je meta. (vim, že ty jablka nejsou zelená)
